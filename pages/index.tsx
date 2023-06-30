@@ -8,8 +8,11 @@ import MainLayout from '@layout/MainLayout';
 const HomePage = () => {
   return (
     <div>
+      <h1>HOME PAGE</h1>
+
       <Home />
       update
+
     </div>
   );
 };
