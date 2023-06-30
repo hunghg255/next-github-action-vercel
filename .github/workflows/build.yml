@@ -44,4 +44,4 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD }}
           title: "Build and Deploy"
-          description: "Test here: next-github-action-vercel.vercel.app"
+          description: "Test here: https://next-github-action-vercel.vercel.app"
