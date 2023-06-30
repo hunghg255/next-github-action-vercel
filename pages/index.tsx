@@ -9,6 +9,7 @@ const HomePage = () => {
   return (
     <div>
       <Home />
+      update
     </div>
   );
 };
